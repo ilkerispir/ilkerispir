@@ -1,2 +1,5 @@
 ![matrix](matrix.gif)
-![](https://komarev.com/ghpvc/?username=ilkerispir)
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=ilkerispir" alt="Profile views" />
+</p>
